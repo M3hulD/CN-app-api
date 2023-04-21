@@ -1,1 +1,2 @@
+nixPkgs = ['...', 'ts-node']
 cmds = ['npm install -g ts-node']
